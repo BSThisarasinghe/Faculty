@@ -1,0 +1,115 @@
+#CIS1                                                          acidfun
+	text-align: center;
+	color:red;
+
+}
+.Nuwan_1{
+	margin-right: 10%;
+	margin-left: 10%;
+}
+
+table.button td {
+	background-size: 15px;
+	background-color:#F9C;
+	margin: 10px;
+	border-radius:50;
+	text-decoration: none;
+	
+	text-align: center;
+
+
+
+}
+a{
+	text-decoration: center;
+	font-style: italic;
+	font-size: 25px;
+	text-align: center;
+	color: white;
+}
+
+table.about td{
+	border-style: dotted;
+	background-color:#F00;
+	padding: 20px;
+	border-radius: 50px;
+
+
+}
+.images{
+	border-radius: = 50px 0px 50px 0px;
+}
+
+#box1{
+
+	width:60%;
+	height: 40%;
+	background-color:9afede;
+	opacity: 0.7;
+	border-radius: 10px;
+	vertical-align: left;
+}
+
+#box2{
+	width:30%;
+	height: 5%;
+	background-color: baf994;
+	opacity: :0.5;
+	vertical-align: center;
+	border-radius: 10px;
+}
+
+#box3{
+	width:80%;
+	height:25%;
+	background-color: b5ac88;
+	opacity: 0.5;
+}
+#foodbox1{
+	width: 100%;
+	height:40%;
+	background-color: fdecbe;
+	opacity: 0.7;
+	border-radius: 10px;
+}
+#foodp1{
+width:20%;
+height: 50%;
+background-color: red;
+}
+
+#Sport1{
+	width: 27%;
+	height: 6%;
+	background-color: 999999;
+	opacity: 0.7;
+	border-radius: 10px;
+
+}
+
+#Sport3{
+	width: 90%;
+	height: 30%;
+	background-color:cc6666;
+	opacity: 0.7;
+	border-radius: 10px;
+
+}
+
+#Sport2{
+	width: 90%;
+	height: 25%;
+	background-color: ffcccc;
+	opacity: 0.7;
+	border-radius: 10px;
+}
+
+#cisimage1{
+	background-color: red;
+}
+
+table.form_id{
+	color:red;
+	width: 20%;
+	height: 22%
+}
